@@ -1,6 +1,5 @@
 # R-LKDepth
 
-https://drive.google.com/file/d/1wAxHuHlA20PvkE7sDhJD7XnImgUUCDFf/view?usp=drive_link
 
 
 ## Pretrained Models
